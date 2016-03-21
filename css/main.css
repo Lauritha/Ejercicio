@@ -1,0 +1,91 @@
+.foto {
+	width: 130px;
+	height: 100px;
+	display: inline-block;
+}
+img{
+	max-width: 100%;
+}
+.arriba{
+	width: 420px;
+	height: 120px;
+	margin-bottom: 5px;
+	margin-top: 20px;
+	margin-left: 30px;
+}
+.arriba1{
+	width: 420px;
+	height: 120px;
+	margin-bottom: 5px;
+	margin-top: 20px;
+	margin-left: -40px;
+}
+hr{
+	border: pink solid 2px;
+	margin: 10px;
+
+}
+h1{
+	font-family: Arial;
+	text-align: center;
+}
+.abajo{
+	width: 420px;
+	height: 120px;
+	margin-left: 30px;
+}
+.abajo1{
+	width: 420px;
+	height: 120px;
+	margin-left: 40px;
+}
+.fotogrande{
+	width: 420px;
+	height: 120px;
+	position: absolute;
+	right: 40px;
+	top: 0px;
+	margin-top: 20px;
+}
+.container{
+	position: relative;
+	float: left;
+	width: 50%;
+}
+.container2{
+	float: left;
+	position: relative;
+	width: 50%;
+	left: 20px;
+	margin-top: 10px;
+}
+.foto7{
+	width: 400px;
+	height: 380px;
+}
+body{
+	width: 1000px;
+	margin: 0 auto;
+}
+.parrafo{
+	width: 400px;
+	height: 320px;
+	border: solid 2px purple;
+	position: relative;
+	right: -10px;
+	padding: 15px;
+}
+p{
+	font-family: Arial;
+	font-size: 12px;
+	text-align: center;
+}
+h2{
+	font-family: Arial;
+	text-align: center;
+}
+.cajita{
+	position: relative;
+	left: 130px;
+	padding: 10px;
+}
